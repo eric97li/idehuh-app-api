@@ -1,0 +1,25 @@
+{
+  "name": "idehuh-api",
+  "version": "1.0.0",
+  "description": "Idehuh App API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric97li/idehuh-app-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric97li/idehuh-app-api/issues"
+  },
+  "homepage": "https://github.com/eric97li/idehuh-app-api#readme",
+  "dependencies": {
+    "heroku": "^7.47.6",
+    "json-server": "^0.16.3",
+    "pg": "^8.5.1"
+  }
+}
